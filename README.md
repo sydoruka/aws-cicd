@@ -4,4 +4,4 @@ This project demonstrates the usage of GitHub Actions CI/CD pipeline. When chang
 
 ## AWS Architecture
 
-![Architecture Diagram](/images/Acrhitecture.png)
+![Architecture Diagram](/images/Architecture.png)
